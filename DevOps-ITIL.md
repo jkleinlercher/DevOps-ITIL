@@ -1,32 +1,30 @@
-# topics
-
-## continuous delivery and change management
+# continuous delivery and change management
 
 both devops and ITIl have best practices for bringing software changes in production.
 
-### goals
+## goals
 
 - stable products
 - short lead time (only important in devops world?)
 
-### what devops says
+## what devops says
 
 - small, frequent changes
 - fully automated ci/cd pipeline
 - canary or blue/green deployment
 - infrastructure as code
 
-### what itil says
+## what itil says
 
 - different change types (normal, standard and emergemcy changes)
 - risk assessment
 - approval/cab boards
 
-### best of both approach
+## best of both approach
 
 ???
 
-## incident management
+# incident management
 
 tbd
 
