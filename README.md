@@ -16,6 +16,6 @@ if you are expert in DevOps or ITIL, please contribute your expertise!
 
 # content
 
-content goes directly to https://github.com/jkleinlercher/DevOps-ITIL/blob/master/DevOps-ITIL.md
+content goes directly to [this file](DevOps-ITIL.md)
 
 maybe some time we will create different files
