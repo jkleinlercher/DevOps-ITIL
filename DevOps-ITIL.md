@@ -41,3 +41,4 @@ tbd
 - http://dearauditor.org/
 - https://devops.com/integrating-itil-change-management-and-devops/
 - https://www.rundeck.com/7-pitfalls-of-incident-management-ebook-rundeck
+- https://jaxenter.de/incident-management-devops-keynote-devopscon-2019-livestream-89779
