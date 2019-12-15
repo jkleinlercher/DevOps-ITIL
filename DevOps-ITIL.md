@@ -26,6 +26,11 @@ both devops and ITIl have best practices for bringing software changes in produc
 
 ???
 
+## incident management
+
+tbd
+
+
 
 # interesting references
 
@@ -35,3 +40,4 @@ both devops and ITIl have best practices for bringing software changes in produc
 - https://blog.itil.org/2017/06/itsm-und-devops-freund-oder-feind/
 - http://dearauditor.org/
 - https://devops.com/integrating-itil-change-management-and-devops/
+- https://www.rundeck.com/7-pitfalls-of-incident-management-ebook-rundeck
