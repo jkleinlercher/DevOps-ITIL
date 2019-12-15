@@ -1,6 +1,6 @@
 # continuous delivery and change management
 
-both devops and ITIl have best practices for bringing software changes in production.
+both devops and ITIL have best practices for bringing software changes in production.
 
 ## goals
 
@@ -16,7 +16,7 @@ both devops and ITIl have best practices for bringing software changes in produc
 
 ## what itil says
 
-- different change types (normal, standard and emergemcy changes)
+- different change types (normal, standard and emergency changes)
 - risk assessment
 - approval/cab boards
 
