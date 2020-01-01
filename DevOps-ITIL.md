@@ -36,7 +36,7 @@ tbd
 - https://itsm.tools/why-devops-wont-replace-itil/
 - https://www.itil.de/2016/11/17/itil-versus-devops-unterschiedliche-sichtweisen/
 - https://blog.itil.org/2017/06/itsm-und-devops-freund-oder-feind/
-- https://dearauditor.org/
+- http://dearauditor.org/
 - https://devops.com/integrating-itil-change-management-and-devops/
 - https://www.rundeck.com/7-pitfalls-of-incident-management-ebook-rundeck
 - https://jaxenter.de/incident-management-devops-keynote-devopscon-2019-livestream-89779
