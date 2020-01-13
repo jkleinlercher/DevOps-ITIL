@@ -41,3 +41,4 @@ tbd
 - https://www.rundeck.com/7-pitfalls-of-incident-management-ebook-rundeck
 - https://jaxenter.de/incident-management-devops-keynote-devopscon-2019-livestream-89779
 - https://www.youtube.com/watch?v=iiQY9qiDQCE
+- https://devops-com.cdn.ampproject.org/c/s/devops.com/devops-versus-itil-how-to-win-the-battle-over-change-management/amp/
