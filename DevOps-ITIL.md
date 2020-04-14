@@ -58,3 +58,4 @@ incident management is a formal process in ITIL, whereas it is a necessary pract
 - https://devops-com.cdn.ampproject.org/c/s/devops.com/devops-versus-itil-how-to-win-the-battle-over-change-management/amp/
 - COBIT: https://www.goodelearning.com/courses/it-governance/cobit-foundation/what-is-cobit-5
 - EBA guidelines on internal governance: https://eba.europa.eu/regulation-and-policy/internal-governance
+- https://www.informatik-aktuell.de/entwicklung/methoden/hybride-it-organisationen-mit-itil4-und-devops.html
